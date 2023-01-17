@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 cricket
 hockey
+=======
+cricket
+>>>>>>> 57692c3 (add hockey)
